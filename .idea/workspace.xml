@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96f27301-f281-4c03-97d3-29a132446b19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../16-08-2022/AulasKotlin/src/main/kotlin/16-08-2022.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulasKotlin/16-08-2022/ExercicioNumeroInteiro.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/.idea/If..Else.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/16-08-2022.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/Exe2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/else2/Exe2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/.idea/If..Else.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/Exe2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/META-INF/If..Else.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../If-Else/If..Else/out/production/If..Else/_16_08_2022Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja-de-roupas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loja-de-roupas/sacola.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DS0z0iLEppK4Dx9c2JTS0tpjTT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96f27301-f281-4c03-97d3-29a132446b19" name="Changes" comment="" />
+      <created>1660677436876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660677436876</updated>
+    </task>
+    <servers />
+  </component>
+</project>
